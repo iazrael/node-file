@@ -2,7 +2,7 @@
   "author": "azrael <azrael@imatlas.com> (http://imatlas.com/about)",
   "name": "node-file",
   "description": "a tool to operate file conveniently",
-  "version": "0.1",
+  "version": "0.1.1",
   "homepage": "http://imatlas.com/",
   "repository": {
     "type": "git",
@@ -12,8 +12,7 @@
   "engines": {
     "node": "*"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {}
 }
